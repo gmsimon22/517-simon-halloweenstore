@@ -52,4 +52,7 @@ Malls everywhere have that one abandoed store. This is the perfect site for the 
 
 ## Conclusion
 
+
 Halloween Stores are a strong source of American pride, history, and our right to making Halloween *our* holiday. So celebrate the countdown to this hot shopping splurg!
+=======
+![cat surrounded by pumpkins](images/cat.jpg)
