@@ -2,6 +2,8 @@
 
 all about halloween stores
 
+![pumpkins with dark backdrop](images/halloween-pumpkins.jpg)
+
 ## What is Halloween
 
 ## What to Find at the Stores
@@ -11,6 +13,9 @@ all about halloween stores
 ### Masks
 
 ### Accessories
+
+
+![spirit halloween storefront](images/spirit-halloween.jpg)
 
 ## Pop-Up Store Culture
 
