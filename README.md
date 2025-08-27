@@ -15,3 +15,5 @@ all about halloween stores
 ## Pop-Up Store Culture
 
 ## Conclusion
+
+![cat surrounded by pumpkins](images/cat.jpg)
