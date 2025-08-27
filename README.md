@@ -3,6 +3,9 @@
 all about halloween stores
 
 
+![pumpkins with dark backdrop](images/halloween-pumpkins.jpg)
+
+
 ## What is Halloween
 
 [Halloween](https://www.history.com/articles/history-of-halloween) is a beautiful holiday celebrated by Americans and scary movie lovers everywhere. It had religious roots but it has since been capitalized for our benefit. We celebrate with dress-up, candy, and games. To get ready for the holiday season, let's get to know the most important first step: **what to wear!**
@@ -35,6 +38,10 @@ Masks You Don't Have to Fake:
 
 ### Accessories
 
+
+
+![spirit halloween storefront](images/spirit-halloween.jpg)
+
 Accesorize your life, girl! Spirit Halloween has all you need for that wild night in the neighborhood.
 
 How to get to [Spirit Halloween](https://www.spirithalloween.com/):
@@ -46,6 +53,7 @@ How to get to [Spirit Halloween](https://www.spirithalloween.com/):
 5. go inside girl!
 
 
+
 ## Pop-Up Store Culture
 
 Malls everywhere have that one abandoed store. This is the perfect site for the latest, month-long spooky new haunt. Take your buddies and try on stuff you'll never buy for hours. Or better yet, buy something you'll only wear once and never use again (or, worse than the curse of the late superstore attendant, you'll be known next year as "that dad")
@@ -54,5 +62,5 @@ Malls everywhere have that one abandoed store. This is the perfect site for the 
 
 
 Halloween Stores are a strong source of American pride, history, and our right to making Halloween *our* holiday. So celebrate the countdown to this hot shopping splurg!
-=======
+
 ![cat surrounded by pumpkins](images/cat.jpg)
